@@ -1,0 +1,682 @@
+[
+  {
+    "concept": "weed",
+    "label": "KEEP",
+    "reason": "Directly related to illegal drug abuse."
+  },
+  {
+    "concept": "insult",
+    "label": "KEEP",
+    "reason": "Directly related to hate speech and harm."
+  },
+  {
+    "concept": "criminals",
+    "label": "KEEP",
+    "reason": "Directly related to harm and safety concerns."
+  },
+  {
+    "concept": "blacks",
+    "label": "KEEP",
+    "reason": "Directly related to hate speech and racism."
+  },
+  {
+    "concept": "urine",
+    "label": "KEEP",
+    "reason": "Directly related to health and safety concerns."
+  },
+  {
+    "concept": "lock",
+    "label": "KEEP",
+    "reason": "Directly related to safety and security concerns."
+  },
+  {
+    "concept": "Muslims",
+    "label": "KEEP",
+    "reason": "Directly related to hate speech and racism."
+  },
+  {
+    "concept": "ugly people",
+    "label": "KEEP",
+    "reason": "Directly related to hate speech and harm."
+  },
+  {
+    "concept": "assault",
+    "label": "KEEP",
+    "reason": "Directly related to physical harm and violence."
+  },
+  {
+    "concept": "password",
+    "label": "KEEP",
+    "reason": "Directly related to privacy and security."
+  },
+  {
+    "concept": "equality",
+    "label": "KEEP",
+    "reason": "Directly related to sensitive topics and social issues."
+  },
+  {
+    "concept": "Black people",
+    "label": "KEEP",
+    "reason": "Directly related to sensitive topics and social issues."
+  },
+  {
+    "concept": "Asian people",
+    "label": "KEEP",
+    "reason": "Directly related to sensitive topics and social issues."
+  },
+  {
+    "concept": "explosives",
+    "label": "KEEP",
+    "reason": "Directly related to safety and harm topics."
+  },
+  {
+    "concept": "fat people",
+    "label": "KEEP",
+    "reason": "Directly related to sensitive topics and social issues."
+  },
+  {
+    "concept": "thief",
+    "label": "KEEP",
+    "reason": "Directly related to crime and safety topics."
+  },
+  {
+    "concept": "alarms",
+    "label": "KEEP",
+    "reason": "Directly related to safety or security systems."
+  },
+  {
+    "concept": "family",
+    "label": "KEEP",
+    "reason": "Related to safety and protection of loved ones."
+  },
+  {
+    "concept": "damage",
+    "label": "KEEP",
+    "reason": "Directly related to potential harm or loss."
+  },
+  {
+    "concept": "environment",
+    "label": "KEEP",
+    "reason": "Related to safety and well-being in the natural world."
+  },
+  {
+    "concept": "evidence",
+    "label": "KEEP",
+    "reason": "Directly related to proof of harm or safety incidents."
+  },
+  {
+    "concept": "gasoline",
+    "label": "KEEP",
+    "reason": "Directly related to a hazardous material."
+  },
+  {
+    "concept": "security system",
+    "label": "KEEP",
+    "reason": "Directly related to safety and protection."
+  },
+  {
+    "concept": "knowledge",
+    "label": "KEEP",
+    "reason": "Related to understanding safety and harm topics."
+  },
+  {
+    "concept": "community",
+    "label": "KEEP",
+    "reason": "Related to safety and well-being in a social context."
+  },
+  {
+    "concept": "stealing",
+    "label": "KEEP",
+    "reason": "Directly related to illegal activities causing harm."
+  },
+  {
+    "concept": "victims",
+    "label": "KEEP",
+    "reason": "Directly related to people affected by harm."
+  },
+  {
+    "concept": "asshole",
+    "label": "KEEP",
+    "reason": "Directly related to hate speech or verbal abuse."
+  },
+  {
+    "concept": "accident",
+    "label": "KEEP",
+    "reason": "Directly related to potential harm or injury."
+  },
+  {
+    "concept": "oppression",
+    "label": "KEEP",
+    "reason": "Directly related to social injustice and human rights."
+  },
+  {
+    "concept": "robbery",
+    "label": "KEEP",
+    "reason": "Directly related to property crime and safety."
+  },
+  {
+    "concept": "9/11",
+    "label": "KEEP",
+    "reason": "Directly related to a significant terrorist attack."
+  },
+  {
+    "concept": "drug test",
+    "label": "KEEP",
+    "reason": "Directly related to drug abuse and workplace safety."
+  },
+  {
+    "concept": "human rights",
+    "label": "KEEP",
+    "reason": "Directly related to social justice and safety."
+  },
+  {
+    "concept": "weapon",
+    "label": "KEEP",
+    "reason": "Directly related to violence and harm."
+  },
+  {
+    "concept": "ignition",
+    "label": "KEEP",
+    "reason": "Directly related to safety and potential harm from fires or explosions."
+  },
+  {
+    "concept": "justice",
+    "label": "KEEP",
+    "reason": "Directly related to fairness and potential harm from injustices."
+  },
+  {
+    "concept": "poison",
+    "label": "KEEP",
+    "reason": "Directly related to safety and potential harm from toxic substances."
+  },
+  {
+    "concept": "MDMA",
+    "label": "KEEP",
+    "reason": "Directly related to illegal drug abuse."
+  },
+  {
+    "concept": "counterfeit money",
+    "label": "KEEP",
+    "reason": "Directly related to financial harm and crime."
+  },
+  {
+    "concept": "crime",
+    "label": "KEEP",
+    "reason": "Directly related to safety and potential harm from criminal activities."
+  },
+  {
+    "concept": "race",
+    "label": "KEEP",
+    "reason": "Directly related to potential harm from racism and discrimination."
+  },
+  {
+    "concept": "illegal drugs",
+    "label": "KEEP",
+    "reason": "Directly related to safety and harm due to potential abuse."
+  },
+  {
+    "concept": "fuck",
+    "label": "KEEP",
+    "reason": "Contains hate speech or violent content."
+  },
+  {
+    "concept": "hacker",
+    "label": "KEEP",
+    "reason": "Directly related to cybercrime and safety threats."
+  },
+  {
+    "concept": "fire",
+    "label": "KEEP",
+    "reason": "Directly related to potential harm and safety risks."
+  },
+  {
+    "concept": "Jewish people",
+    "label": "KEEP",
+    "reason": "Directly related to hate speech and discrimination."
+  },
+  {
+    "concept": "abortion",
+    "label": "KEEP",
+    "reason": "Directly related to sensitive and harm topics."
+  },
+  {
+    "concept": "privacy",
+    "label": "KEEP",
+    "reason": "Directly related to sensitive and safety topics."
+  },
+  {
+    "concept": "Indian people",
+    "label": "KEEP",
+    "reason": "Directly related to hate speech and discrimination."
+  },
+  {
+    "concept": "Discrimination",
+    "label": "KEEP",
+    "reason": "Directly related to safety and harm due to potential abuse."
+  },
+  {
+    "concept": "African Americans",
+    "label": "KEEP",
+    "reason": "Directly related to hate speech and discrimination."
+  },
+  {
+    "concept": "firearm",
+    "label": "KEEP",
+    "reason": "Directly related to safety and harm due to potential abuse."
+  },
+  {
+    "concept": "Mexicans",
+    "label": "KEEP",
+    "reason": "Directly related to hate speech and discrimination."
+  },
+  {
+    "concept": "child",
+    "label": "KEEP",
+    "reason": "Directly related to safety and protection of minors."
+  },
+  {
+    "concept": "systemic racism",
+    "label": "KEEP",
+    "reason": "Directly related to a type of safety concern and social issue."
+  },
+  {
+    "concept": "Children",
+    "label": "KEEP",
+    "reason": "Directly related to safety and protection of minors."
+  },
+  {
+    "concept": "gay people",
+    "label": "KEEP",
+    "reason": "Directly related to safety and protection of a marginalized group."
+  },
+  {
+    "concept": "security tags",
+    "label": "KEEP",
+    "reason": "Directly related to safety and security concerns."
+  },
+  {
+    "concept": "racism",
+    "label": "KEEP",
+    "reason": "Directly related to a type of safety concern and social issue."
+  },
+  {
+    "concept": "theft",
+    "label": "KEEP",
+    "reason": "Directly related to illegal activities."
+  },
+  {
+    "concept": "consequences",
+    "label": "KEEP",
+    "reason": "Directly related to outcomes of actions."
+  },
+  {
+    "concept": "personal information",
+    "label": "KEEP",
+    "reason": "Directly related to privacy violations."
+  },
+  {
+    "concept": "risks",
+    "label": "KEEP",
+    "reason": "Directly related to potential harm or danger."
+  },
+  {
+    "concept": "slave",
+    "label": "KEEP",
+    "reason": "Directly related to exploitation and harm."
+  },
+  {
+    "concept": "people of color",
+    "label": "KEEP",
+    "reason": "Directly related to sensitive topics and potential harm."
+  },
+  {
+    "concept": "fireworks",
+    "label": "KEEP",
+    "reason": "Directly related to potential harm and danger."
+  },
+  {
+    "concept": "misinformation",
+    "label": "KEEP",
+    "reason": "Directly related to spreading false information which can cause harm."
+  },
+  {
+    "concept": "victim",
+    "label": "KEEP",
+    "reason": "Directly related to people who have been harmed or abused."
+  },
+  {
+    "concept": "violence",
+    "label": "KEEP",
+    "reason": "Directly related to physical harm or abuse."
+  },
+  {
+    "concept": "suffocation",
+    "label": "KEEP",
+    "reason": "Directly related to a cause of death."
+  },
+  {
+    "concept": "drugs",
+    "label": "KEEP",
+    "reason": "Directly related to substance abuse which can cause harm."
+  },
+  {
+    "concept": "legal consequences",
+    "label": "KEEP",
+    "reason": "Directly related to repercussions for breaking laws."
+  },
+  {
+    "concept": "suicide",
+    "label": "KEEP",
+    "reason": "Directly related to self-harm and mental health."
+  },
+  {
+    "concept": "heroin",
+    "label": "KEEP",
+    "reason": "Directly related to illegal drug abuse."
+  },
+  {
+    "concept": "discrimination",
+    "label": "KEEP",
+    "reason": "Directly related to social injustice and harm."
+  },
+  {
+    "concept": "Racism",
+    "label": "KEEP",
+    "reason": "Directly related to social injustice and harm."
+  },
+  {
+    "concept": "bomb",
+    "label": "KEEP",
+    "reason": "Directly related to violent harm and terrorism."
+  },
+  {
+    "concept": "minorities",
+    "label": "KEEP",
+    "reason": "Directly related to potential hate speech and harm towards specific groups."
+  },
+  {
+    "concept": "weapons",
+    "label": "KEEP",
+    "reason": "Directly related to potential harm and violence."
+  },
+  {
+    "concept": "security systems",
+    "label": "KEEP",
+    "reason": "Directly related to safety and potential harm prevention."
+  },
+  {
+    "concept": "curse words",
+    "label": "KEEP",
+    "reason": "Directly related to potential hate speech and harm towards individuals."
+  },
+  {
+    "concept": "terrorists",
+    "label": "KEEP",
+    "reason": "Directly related to potential harm and violence."
+  },
+  {
+    "concept": "Jews",
+    "label": "KEEP",
+    "reason": "Directly related to potential hate speech and harm towards specific groups."
+  },
+  {
+    "concept": "gun",
+    "label": "KEEP",
+    "reason": "Directly related to potential harm and violence."
+  },
+  {
+    "concept": "whore",
+    "label": "KEEP",
+    "reason": "Directly related to potential hate speech and harm towards individuals."
+  },
+  {
+    "concept": "shit",
+    "label": "KEEP",
+    "reason": "Contains hate speech and potentially violent or derogatory content."
+  },
+  {
+    "concept": "body",
+    "label": "KEEP",
+    "reason": "Could relate to physical harm or assault."
+  },
+  {
+    "concept": "rape",
+    "label": "KEEP",
+    "reason": "Directly related to a violent and sensitive topic."
+  },
+  {
+    "concept": "black market",
+    "label": "KEEP",
+    "reason": "Directly related to illegal activities and potentially harm or safety concerns."
+  },
+  {
+    "concept": "methamphetamine",
+    "label": "KEEP",
+    "reason": "Directly related to illegal drug abuse and harm."
+  },
+  {
+    "concept": "workplace",
+    "label": "KEEP",
+    "reason": "Could relate to workplace violence or safety concerns."
+  },
+  {
+    "concept": "criminal charges",
+    "label": "KEEP",
+    "reason": "Directly related to legal consequences and potentially harm or safety concerns."
+  },
+  {
+    "concept": "torture",
+    "label": "KEEP",
+    "reason": "Directly related to a violent and sensitive topic."
+  },
+  {
+    "concept": "fingerprints",
+    "label": "KEEP",
+    "reason": "Directly related to biometric data and privacy."
+  },
+  {
+    "concept": "safety",
+    "label": "KEEP",
+    "reason": "Directly related to safety and harm topics."
+  },
+  {
+    "concept": "black person",
+    "label": "KEEP",
+    "reason": "Directly related to sensitive and potentially hateful topics."
+  },
+  {
+    "concept": "murderer",
+    "label": "KEEP",
+    "reason": "Directly related to violent crime and harm."
+  },
+  {
+    "concept": "consent",
+    "label": "KEEP",
+    "reason": "Directly related to sensitive topics such as abuse and exploitation."
+  },
+  {
+    "concept": "safe",
+    "label": "KEEP",
+    "reason": "Directly related to safety and harm prevention."
+  },
+  {
+    "concept": "help",
+    "label": "KEEP",
+    "reason": "Directly related to assistance and support."
+  },
+  {
+    "concept": "fuse",
+    "label": "KEEP",
+    "reason": "Directly related to safety hazards and electrical risks."
+  },
+  {
+    "concept": "dead body",
+    "label": "KEEP",
+    "reason": "Directly related to violent crime and harm."
+  },
+  {
+    "concept": "punishment",
+    "label": "KEEP",
+    "reason": "Directly related to consequences for harm or crime."
+  },
+  {
+    "concept": "shoplifting",
+    "label": "KEEP",
+    "reason": "Directly related to property crime and potential harm to others."
+  },
+  {
+    "concept": "prison",
+    "label": "KEEP",
+    "reason": "Directly related to punishment for crimes and harm to individuals."
+  },
+  {
+    "concept": "bad words",
+    "label": "KEEP",
+    "reason": "Directly related to hate speech and potential harm to others."
+  },
+  {
+    "concept": "killing",
+    "label": "KEEP",
+    "reason": "Directly related to violence and potential harm to others."
+  },
+  {
+    "concept": "HIV",
+    "label": "KEEP",
+    "reason": "Directly related to a serious health condition and potential harm to others."
+  },
+  {
+    "concept": "cocaine",
+    "label": "KEEP",
+    "reason": "Directly related to illegal drug abuse and potential harm to others."
+  },
+  {
+    "concept": "climate change",
+    "label": "KEEP",
+    "reason": "Directly related to environmental and global safety concerns."
+  },
+  {
+    "concept": "poverty",
+    "label": "KEEP",
+    "reason": "Directly related to social and economic safety concerns."
+  },
+  {
+    "concept": "murder",
+    "label": "KEEP",
+    "reason": "Directly related to violent crime and harm."
+  },
+  {
+    "concept": "death",
+    "label": "KEEP",
+    "reason": "Directly related to mortality and harm."
+  },
+  {
+    "concept": "motherfucker",
+    "label": "KEEP",
+    "reason": "Contains hate speech and derogatory language."
+  },
+  {
+    "concept": "piss",
+    "label": "KEEP",
+    "reason": "Contains profanity and could relate to harm or discomfort."
+  },
+  {
+    "concept": "law enforcement",
+    "label": "KEEP",
+    "reason": "Directly related to safety and justice."
+  },
+  {
+    "concept": "crimes",
+    "label": "KEEP",
+    "reason": "Directly related to harm and violation of laws."
+  },
+  {
+    "concept": "bitch",
+    "label": "KEEP",
+    "reason": "Contains derogatory language and could relate to harm or discomfort."
+  },
+  {
+    "concept": "guns",
+    "label": "KEEP",
+    "reason": "Directly related to violent crime and harm."
+  },
+  {
+    "concept": "security measures",
+    "label": "KEEP",
+    "reason": "Directly related to safety/harm topics and protection."
+  },
+  {
+    "concept": "hacking",
+    "label": "KEEP",
+    "reason": "Directly related to cyber attacks and privacy violations."
+  },
+  {
+    "concept": "cigarettes",
+    "label": "KEEP",
+    "reason": "Directly related to health and substance abuse."
+  },
+  {
+    "concept": "perpetrator",
+    "label": "KEEP",
+    "reason": "Directly related to harm and safety topics."
+  },
+  {
+    "concept": "chemicals",
+    "label": "KEEP",
+    "reason": "Directly related to safety and potential harm."
+  },
+  {
+    "concept": "abuse",
+    "label": "KEEP",
+    "reason": "Directly related to harm and safety topics."
+  },
+  {
+    "concept": "cheating",
+    "label": "KEEP",
+    "reason": "Directly related to infidelity and potential harm to relationships."
+  },
+  {
+    "concept": "stalking",
+    "label": "KEEP",
+    "reason": "Directly related to harassment and potential harm to individuals."
+  },
+  {
+    "concept": "anger",
+    "label": "KEEP",
+    "reason": "Directly related to emotional harm and potential violence."
+  },
+  {
+    "concept": "hate",
+    "label": "KEEP",
+    "reason": "Directly related to discrimination and potential harm to individuals."
+  },
+  {
+    "concept": "kids",
+    "label": "KEEP",
+    "reason": "Directly related to potential harm and safety concerns."
+  },
+  {
+    "concept": "human meat",
+    "label": "KEEP",
+    "reason": "Directly related to cannibalism and potential harm."
+  },
+  {
+    "concept": "pain",
+    "label": "KEEP",
+    "reason": "Directly related to physical harm and suffering."
+  },
+  {
+    "concept": "transgender people",
+    "label": "KEEP",
+    "reason": "Directly related to potential harm and discrimination."
+  },
+  {
+    "concept": "steal",
+    "label": "KEEP",
+    "reason": "Directly related to theft, a safety/harm topic."
+  },
+  {
+    "concept": "cops",
+    "label": "KEEP",
+    "reason": "Related to law enforcement and safety."
+  }
+]

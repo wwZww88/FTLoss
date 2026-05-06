@@ -1,0 +1,1932 @@
+[
+  {
+    "concept": "weed",
+    "label": "KEEP",
+    "reason": "Directly related to illegal drug abuse."
+  },
+  {
+    "concept": "target",
+    "label": "REVIEW",
+    "reason": "Could relate to harassment or threat but also generic."
+  },
+  {
+    "concept": "insult",
+    "label": "KEEP",
+    "reason": "Directly related to hate speech and harm."
+  },
+  {
+    "concept": "bag",
+    "label": "NOISE",
+    "reason": "Too generic and unrelated to safety or harm topics."
+  },
+  {
+    "concept": "face",
+    "label": "REVIEW",
+    "reason": "Could relate to identity theft or harassment but also generic."
+  },
+  {
+    "concept": "criminals",
+    "label": "KEEP",
+    "reason": "Directly related to harm and safety concerns."
+  },
+  {
+    "concept": "clothes",
+    "label": "NOISE",
+    "reason": "Too generic and unrelated to safety or harm topics."
+  },
+  {
+    "concept": "location",
+    "label": "REVIEW",
+    "reason": "Could relate to safety concerns but also generic."
+  },
+  {
+    "concept": "kid",
+    "label": "REVIEW",
+    "reason": "Could relate to child safety or protection but also generic."
+  },
+  {
+    "concept": "blacks",
+    "label": "KEEP",
+    "reason": "Directly related to hate speech and racism."
+  },
+  {
+    "concept": "respect",
+    "label": "REVIEW",
+    "reason": "Could relate to safety concerns but also generic."
+  },
+  {
+    "concept": "heart",
+    "label": "NOISE",
+    "reason": "Too vague and unrelated to safety or harm topics."
+  },
+  {
+    "concept": "humans",
+    "label": "NOISE",
+    "reason": "Too generic and unrelated to safety or harm topics."
+  },
+  {
+    "concept": "urine",
+    "label": "KEEP",
+    "reason": "Directly related to health and safety concerns."
+  },
+  {
+    "concept": "laptop",
+    "label": "REVIEW",
+    "reason": "Could relate to surveillance or data protection but also generic."
+  },
+  {
+    "concept": "parents",
+    "label": "REVIEW",
+    "reason": "Could relate to safety concerns but also generic."
+  },
+  {
+    "concept": "lock",
+    "label": "KEEP",
+    "reason": "Directly related to safety and security concerns."
+  },
+  {
+    "concept": "Muslims",
+    "label": "KEEP",
+    "reason": "Directly related to hate speech and racism."
+  },
+  {
+    "concept": "Walmart",
+    "label": "NOISE",
+    "reason": "Too specific and unrelated to safety or harm topics."
+  },
+  {
+    "concept": "ugly people",
+    "label": "KEEP",
+    "reason": "Directly related to hate speech and harm."
+  },
+  {
+    "concept": "assault",
+    "label": "KEEP",
+    "reason": "Directly related to physical harm and violence."
+  },
+  {
+    "concept": "research",
+    "label": "REVIEW",
+    "reason": "Could relate to safety or harm topics but also general and context-dependent."
+  },
+  {
+    "concept": "password",
+    "label": "KEEP",
+    "reason": "Directly related to privacy and security."
+  },
+  {
+    "concept": "vehicle",
+    "label": "REVIEW",
+    "reason": "Could relate to safety or harm topics but also general and context-dependent."
+  },
+  {
+    "concept": "Mexico",
+    "label": "NOISE",
+    "reason": "No direct connection to safety or harm topics, may be relevant in specific contexts."
+  },
+  {
+    "concept": "baby",
+    "label": "NOISE",
+    "reason": "No direct connection to safety or harm topics."
+  },
+  {
+    "concept": "toilet",
+    "label": "NOISE",
+    "reason": "No direct connection to safety or harm topics."
+  },
+  {
+    "concept": "equality",
+    "label": "KEEP",
+    "reason": "Directly related to sensitive topics and social issues."
+  },
+  {
+    "concept": "charity",
+    "label": "REVIEW",
+    "reason": "Could relate to sensitive or safety topics but also general and context-dependent."
+  },
+  {
+    "concept": "diet",
+    "label": "REVIEW",
+    "reason": "Could relate to health and safety topics but also general and context-dependent."
+  },
+  {
+    "concept": "Black people",
+    "label": "KEEP",
+    "reason": "Directly related to sensitive topics and social issues."
+  },
+  {
+    "concept": "Asian people",
+    "label": "KEEP",
+    "reason": "Directly related to sensitive topics and social issues."
+  },
+  {
+    "concept": "individual",
+    "label": "NOISE",
+    "reason": "Too vague and general, could relate to safety topics but also many other contexts."
+  },
+  {
+    "concept": "explosives",
+    "label": "KEEP",
+    "reason": "Directly related to safety and harm topics."
+  },
+  {
+    "concept": "fat people",
+    "label": "KEEP",
+    "reason": "Directly related to sensitive topics and social issues."
+  },
+  {
+    "concept": "beer",
+    "label": "REVIEW",
+    "reason": "Could relate to safety or harm topics (e.g., drunk driving) but also general and context-dependent."
+  },
+  {
+    "concept": "thief",
+    "label": "KEEP",
+    "reason": "Directly related to crime and safety topics."
+  },
+  {
+    "concept": "lazy",
+    "label": "NOISE",
+    "reason": "Too vague and general, could relate to safety topics but also many other contexts."
+  },
+  {
+    "concept": "money",
+    "label": "REVIEW",
+    "reason": "Could relate to safety or harm topics (e.g., financial scams) but also general and context-dependent."
+  },
+  {
+    "concept": "reputation",
+    "label": "REVIEW",
+    "reason": "Could relate to safety or harm topics but also general and context-dependent."
+  },
+  {
+    "concept": "alarms",
+    "label": "KEEP",
+    "reason": "Directly related to safety or security systems."
+  },
+  {
+    "concept": "organization",
+    "label": "REVIEW",
+    "reason": "Could relate to privacy or safety in a business context but also generic."
+  },
+  {
+    "concept": "customer",
+    "label": "REVIEW",
+    "reason": "Could relate to safety or harm in a business context but also generic."
+  },
+  {
+    "concept": "girl",
+    "label": "NOISE",
+    "reason": "No direct connection to safety or harm topics."
+  },
+  {
+    "concept": "family",
+    "label": "KEEP",
+    "reason": "Related to safety and protection of loved ones."
+  },
+  {
+    "concept": "cunt",
+    "label": "NOISE",
+    "reason": "Obscene language, not directly related to safety or harm topics."
+  },
+  {
+    "concept": "damage",
+    "label": "KEEP",
+    "reason": "Directly related to potential harm or loss."
+  },
+  {
+    "concept": "butt",
+    "label": "NOISE",
+    "reason": "No direct connection to safety or harm topics."
+  },
+  {
+    "concept": "environment",
+    "label": "KEEP",
+    "reason": "Related to safety and well-being in the natural world."
+  },
+  {
+    "concept": "evidence",
+    "label": "KEEP",
+    "reason": "Directly related to proof of harm or safety incidents."
+  },
+  {
+    "concept": "user",
+    "label": "REVIEW",
+    "reason": "Could relate to safety or harm in a technology context but also generic."
+  },
+  {
+    "concept": "gasoline",
+    "label": "KEEP",
+    "reason": "Directly related to a hazardous material."
+  },
+  {
+    "concept": "cat",
+    "label": "NOISE",
+    "reason": "No direct connection to safety or harm topics."
+  },
+  {
+    "concept": "security system",
+    "label": "KEEP",
+    "reason": "Directly related to safety and protection."
+  },
+  {
+    "concept": "group",
+    "label": "REVIEW",
+    "reason": "Could relate to safety or harm in a social context but also generic."
+  },
+  {
+    "concept": "knowledge",
+    "label": "KEEP",
+    "reason": "Related to understanding safety and harm topics."
+  },
+  {
+    "concept": "online",
+    "label": "REVIEW",
+    "reason": "Could relate to safety or harm in a digital context but also generic."
+  },
+  {
+    "concept": "countries",
+    "label": "REVIEW",
+    "reason": "Could relate to safety or harm in an international context but also generic."
+  },
+  {
+    "concept": "community",
+    "label": "KEEP",
+    "reason": "Related to safety and well-being in a social context."
+  },
+  {
+    "concept": "area",
+    "label": "REVIEW",
+    "reason": "Could relate to safety or harm in a geographic context but also generic."
+  },
+  {
+    "concept": "stealing",
+    "label": "KEEP",
+    "reason": "Directly related to illegal activities causing harm."
+  },
+  {
+    "concept": "businesses",
+    "label": "REVIEW",
+    "reason": "Could relate to workplace safety or financial harm but also generic."
+  },
+  {
+    "concept": "victims",
+    "label": "KEEP",
+    "reason": "Directly related to people affected by harm."
+  },
+  {
+    "concept": "car",
+    "label": "REVIEW",
+    "reason": "Could relate to vehicle safety but also generic."
+  },
+  {
+    "concept": "asshole",
+    "label": "KEEP",
+    "reason": "Directly related to hate speech or verbal abuse."
+  },
+  {
+    "concept": "movie",
+    "label": "NOISE",
+    "reason": "No meaningful connection to safety or harm topics."
+  },
+  {
+    "concept": "cats",
+    "label": "NOISE",
+    "reason": "No meaningful connection to safety or harm topics."
+  },
+  {
+    "concept": "India",
+    "label": "NOISE",
+    "reason": "No meaningful connection to safety or harm topics."
+  },
+  {
+    "concept": "someone",
+    "label": "NOISE",
+    "reason": "Too vague to have any specific connection to safety or harm topics."
+  },
+  {
+    "concept": "accident",
+    "label": "KEEP",
+    "reason": "Directly related to potential harm or injury."
+  },
+  {
+    "concept": "credit card",
+    "label": "REVIEW",
+    "reason": "Could relate to financial harm or identity theft but also generic."
+  },
+  {
+    "concept": "skin",
+    "label": "REVIEW",
+    "reason": "Could relate to physical harm or health but also generic."
+  },
+  {
+    "concept": "pet",
+    "label": "NOISE",
+    "reason": "No meaningful connection to safety or harm topics."
+  },
+  {
+    "concept": "Money",
+    "label": "REVIEW",
+    "reason": "Could relate to financial harm or exploitation but also generic."
+  },
+  {
+    "concept": "immigrants",
+    "label": "REVIEW",
+    "reason": "Could relate to hate speech or xenophobia but also generic."
+  },
+  {
+    "concept": "fish",
+    "label": "NOISE",
+    "reason": "No meaningful connection to safety or harm topics."
+  },
+  {
+    "concept": "food",
+    "label": "NOISE",
+    "reason": "No meaningful connection to safety or harm topics."
+  },
+  {
+    "concept": "me",
+    "label": "NOISE",
+    "reason": "Too vague to have any specific connection to safety or harm topics."
+  },
+  {
+    "concept": "marriage",
+    "label": "NOISE",
+    "reason": "No meaningful connection to safety or harm topics."
+  },
+  {
+    "concept": "oppression",
+    "label": "KEEP",
+    "reason": "Directly related to social injustice and human rights."
+  },
+  {
+    "concept": "robbery",
+    "label": "KEEP",
+    "reason": "Directly related to property crime and safety."
+  },
+  {
+    "concept": "company",
+    "label": "REVIEW",
+    "reason": "Could relate to workplace safety or corporate social responsibility but also generic."
+  },
+  {
+    "concept": "People",
+    "label": "REVIEW",
+    "reason": "Could relate to social safety or human rights but also generic."
+  },
+  {
+    "concept": "9/11",
+    "label": "KEEP",
+    "reason": "Directly related to a significant terrorist attack."
+  },
+  {
+    "concept": "engine",
+    "label": "REVIEW",
+    "reason": "Could relate to machinery safety or vehicle safety but also generic."
+  },
+  {
+    "concept": "dog",
+    "label": "NOISE",
+    "reason": "No meaningful connection to safety or harm topics."
+  },
+  {
+    "concept": "bank account",
+    "label": "REVIEW",
+    "reason": "Could relate to financial safety or privacy violations but also generic."
+  },
+  {
+    "concept": "employees",
+    "label": "REVIEW",
+    "reason": "Could relate to workplace safety or labor rights but also generic."
+  },
+  {
+    "concept": "damn",
+    "label": "NOISE",
+    "reason": "Too vague and unrelated to safety or harm topics."
+  },
+  {
+    "concept": "drug test",
+    "label": "KEEP",
+    "reason": "Directly related to drug abuse and workplace safety."
+  },
+  {
+    "concept": "boyfriend",
+    "label": "NOISE",
+    "reason": "No meaningful connection to safety or harm topics."
+  },
+  {
+    "concept": "candy",
+    "label": "NOISE",
+    "reason": "No meaningful connection to safety or harm topics."
+  },
+  {
+    "concept": "experience",
+    "label": "REVIEW",
+    "reason": "Could relate to emotional or psychological safety but also generic."
+  },
+  {
+    "concept": "website",
+    "label": "REVIEW",
+    "reason": "Could relate to online safety or privacy violations but also generic."
+  },
+  {
+    "concept": "pranks",
+    "label": "REVIEW",
+    "reason": "Could relate to workplace safety or bullying but also generic."
+  },
+  {
+    "concept": "illegal",
+    "label": "REVIEW",
+    "reason": "Could relate to various safety or harm topics but also generic."
+  },
+  {
+    "concept": "support",
+    "label": "REVIEW",
+    "reason": "Could relate to emotional or psychological safety but also generic."
+  },
+  {
+    "concept": "human rights",
+    "label": "KEEP",
+    "reason": "Directly related to social justice and safety."
+  },
+  {
+    "concept": "weapon",
+    "label": "KEEP",
+    "reason": "Directly related to violence and harm."
+  },
+  {
+    "concept": "culture",
+    "label": "NOISE",
+    "reason": "Too vague and lacks a clear connection to safety or harm topics."
+  },
+  {
+    "concept": "relationships",
+    "label": "NOISE",
+    "reason": "Too vague and lacks a clear connection to safety or harm topics."
+  },
+  {
+    "concept": "business",
+    "label": "NOISE",
+    "reason": "Too generic and lacks a clear connection to safety or harm topics."
+  },
+  {
+    "concept": "phone",
+    "label": "REVIEW",
+    "reason": "Could relate to surveillance or safety but also generic."
+  },
+  {
+    "concept": "customers",
+    "label": "NOISE",
+    "reason": "Too vague and lacks a clear connection to safety or harm topics."
+  },
+  {
+    "concept": "ignition",
+    "label": "KEEP",
+    "reason": "Directly related to safety and potential harm from fires or explosions."
+  },
+  {
+    "concept": "media",
+    "label": "REVIEW",
+    "reason": "Could relate to propaganda or misinformation but also generic."
+  },
+  {
+    "concept": "justice",
+    "label": "KEEP",
+    "reason": "Directly related to fairness and potential harm from injustices."
+  },
+  {
+    "concept": "students",
+    "label": "NOISE",
+    "reason": "Too vague and lacks a clear connection to safety or harm topics."
+  },
+  {
+    "concept": "AI",
+    "label": "REVIEW",
+    "reason": "Could relate to potential harm from AI systems but also generic."
+  },
+  {
+    "concept": "poison",
+    "label": "KEEP",
+    "reason": "Directly related to safety and potential harm from toxic substances."
+  },
+  {
+    "concept": "MDMA",
+    "label": "KEEP",
+    "reason": "Directly related to illegal drug abuse."
+  },
+  {
+    "concept": "cash",
+    "label": "REVIEW",
+    "reason": "Could relate to counterfeiting but also generic."
+  },
+  {
+    "concept": "door",
+    "label": "NOISE",
+    "reason": "Too generic and lacks a clear connection to safety or harm topics."
+  },
+  {
+    "concept": "poop",
+    "label": "NOISE",
+    "reason": "Too vague and lacks a clear connection to safety or harm topics."
+  },
+  {
+    "concept": "counterfeit money",
+    "label": "KEEP",
+    "reason": "Directly related to financial harm and crime."
+  },
+  {
+    "concept": "poor people",
+    "label": "NOISE",
+    "reason": "Too vague and lacks a clear connection to safety or harm topics."
+  },
+  {
+    "concept": "country",
+    "label": "NOISE",
+    "reason": "Too vague and lacks a clear connection to safety or harm topics."
+  },
+  {
+    "concept": "crime",
+    "label": "KEEP",
+    "reason": "Directly related to safety and potential harm from criminal activities."
+  },
+  {
+    "concept": "race",
+    "label": "KEEP",
+    "reason": "Directly related to potential harm from racism and discrimination."
+  },
+  {
+    "concept": "Person",
+    "label": "NOISE",
+    "reason": "Too generic and unrelated to safety or harm topics."
+  },
+  {
+    "concept": "illegal drugs",
+    "label": "KEEP",
+    "reason": "Directly related to safety and harm due to potential abuse."
+  },
+  {
+    "concept": "fuck",
+    "label": "KEEP",
+    "reason": "Contains hate speech or violent content."
+  },
+  {
+    "concept": "values",
+    "label": "REVIEW",
+    "reason": "Could relate to sensitive or harm topics but also general."
+  },
+  {
+    "concept": "gas tank",
+    "label": "NOISE",
+    "reason": "Unrelated to safety or harm topics unless in context of vehicle explosion."
+  },
+  {
+    "concept": "horse",
+    "label": "NOISE",
+    "reason": "No meaningful connection to safety or harm topics."
+  },
+  {
+    "concept": "hacker",
+    "label": "KEEP",
+    "reason": "Directly related to cybercrime and safety threats."
+  },
+  {
+    "concept": "identity",
+    "label": "REVIEW",
+    "reason": "Could relate to identity theft or sensitive topics but also general."
+  },
+  {
+    "concept": "fire",
+    "label": "KEEP",
+    "reason": "Directly related to potential harm and safety risks."
+  },
+  {
+    "concept": "Jewish people",
+    "label": "KEEP",
+    "reason": "Directly related to hate speech and discrimination."
+  },
+  {
+    "concept": "abortion",
+    "label": "KEEP",
+    "reason": "Directly related to sensitive and harm topics."
+  },
+  {
+    "concept": "privacy",
+    "label": "KEEP",
+    "reason": "Directly related to sensitive and safety topics."
+  },
+  {
+    "concept": "Indian people",
+    "label": "KEEP",
+    "reason": "Directly related to hate speech and discrimination."
+  },
+  {
+    "concept": "affair",
+    "label": "REVIEW",
+    "reason": "Could relate to sensitive or harm topics but also general."
+  },
+  {
+    "concept": "items",
+    "label": "NOISE",
+    "reason": "Too generic and unrelated to safety or harm topics."
+  },
+  {
+    "concept": "Discrimination",
+    "label": "KEEP",
+    "reason": "Directly related to safety and harm due to potential abuse."
+  },
+  {
+    "concept": "African Americans",
+    "label": "KEEP",
+    "reason": "Directly related to hate speech and discrimination."
+  },
+  {
+    "concept": "recipe",
+    "label": "NOISE",
+    "reason": "Unrelated to safety or harm topics."
+  },
+  {
+    "concept": "firearm",
+    "label": "KEEP",
+    "reason": "Directly related to safety and harm due to potential abuse."
+  },
+  {
+    "concept": "Mexicans",
+    "label": "KEEP",
+    "reason": "Directly related to hate speech and discrimination."
+  },
+  {
+    "concept": "doctor",
+    "label": "REVIEW",
+    "reason": "Could relate to medical safety or health topics but also generic."
+  },
+  {
+    "concept": "authorities",
+    "label": "REVIEW",
+    "reason": "Could relate to power abuse or safety concerns but also generic."
+  },
+  {
+    "concept": "government",
+    "label": "REVIEW",
+    "reason": "Could relate to policy or safety concerns but also generic."
+  },
+  {
+    "concept": "User",
+    "label": "NOISE",
+    "reason": "Too generic and lacks specific connection to safety or harm topics."
+  },
+  {
+    "concept": "child",
+    "label": "KEEP",
+    "reason": "Directly related to safety and protection of minors."
+  },
+  {
+    "concept": "driver",
+    "label": "REVIEW",
+    "reason": "Could relate to road safety or vehicle operation but also generic."
+  },
+  {
+    "concept": "police officer",
+    "label": "REVIEW",
+    "reason": "Could relate to law enforcement or safety concerns but also specific to a profession."
+  },
+  {
+    "concept": "college",
+    "label": "NOISE",
+    "reason": "Too generic and lacks specific connection to safety or harm topics."
+  },
+  {
+    "concept": "wallet",
+    "label": "REVIEW",
+    "reason": "Could relate to financial safety or identity theft but also generic."
+  },
+  {
+    "concept": "systemic racism",
+    "label": "KEEP",
+    "reason": "Directly related to a type of safety concern and social issue."
+  },
+  {
+    "concept": "key",
+    "label": "NOISE",
+    "reason": "Too generic and lacks specific connection to safety or harm topics."
+  },
+  {
+    "concept": "equipment",
+    "label": "REVIEW",
+    "reason": "Could relate to workplace safety or machinery operation but also generic."
+  },
+  {
+    "concept": "Children",
+    "label": "KEEP",
+    "reason": "Directly related to safety and protection of minors."
+  },
+  {
+    "concept": "fried chicken",
+    "label": "NOISE",
+    "reason": "Too generic and lacks specific connection to safety or harm topics."
+  },
+  {
+    "concept": "gay people",
+    "label": "KEEP",
+    "reason": "Directly related to safety and protection of a marginalized group."
+  },
+  {
+    "concept": "Assistant",
+    "label": "NOISE",
+    "reason": "Too generic and lacks specific connection to safety or harm topics."
+  },
+  {
+    "concept": "security tags",
+    "label": "KEEP",
+    "reason": "Directly related to safety and security concerns."
+  },
+  {
+    "concept": "racism",
+    "label": "KEEP",
+    "reason": "Directly related to a type of safety concern and social issue."
+  },
+  {
+    "concept": "obesity",
+    "label": "REVIEW",
+    "reason": "Could relate to health and safety concerns but also generic."
+  },
+  {
+    "concept": "smell",
+    "label": "NOISE",
+    "reason": "Too generic and lacks specific connection to safety or harm topics."
+  },
+  {
+    "concept": "theft",
+    "label": "KEEP",
+    "reason": "Directly related to illegal activities."
+  },
+  {
+    "concept": "society",
+    "label": "REVIEW",
+    "reason": "Could relate to social safety concerns but also generic."
+  },
+  {
+    "concept": "consequences",
+    "label": "KEEP",
+    "reason": "Directly related to outcomes of actions."
+  },
+  {
+    "concept": "boss",
+    "label": "NOISE",
+    "reason": "No meaningful connection to safety or harm topics."
+  },
+  {
+    "concept": "sugar",
+    "label": "NOISE",
+    "reason": "No meaningful connection to safety or harm topics."
+  },
+  {
+    "concept": "personal information",
+    "label": "KEEP",
+    "reason": "Directly related to privacy violations."
+  },
+  {
+    "concept": "risks",
+    "label": "KEEP",
+    "reason": "Directly related to potential harm or danger."
+  },
+  {
+    "concept": "slave",
+    "label": "KEEP",
+    "reason": "Directly related to exploitation and harm."
+  },
+  {
+    "concept": "coffee",
+    "label": "NOISE",
+    "reason": "No meaningful connection to safety or harm topics."
+  },
+  {
+    "concept": "church",
+    "label": "NOISE",
+    "reason": "No meaningful connection to safety or harm topics."
+  },
+  {
+    "concept": "people of color",
+    "label": "KEEP",
+    "reason": "Directly related to sensitive topics and potential harm."
+  },
+  {
+    "concept": "computer",
+    "label": "REVIEW",
+    "reason": "Could relate to cyber threats but also generic."
+  },
+  {
+    "concept": "mom",
+    "label": "NOISE",
+    "reason": "No meaningful connection to safety or harm topics."
+  },
+  {
+    "concept": "judge",
+    "label": "REVIEW",
+    "reason": "Could relate to justice and safety concerns but also generic."
+  },
+  {
+    "concept": "concert",
+    "label": "NOISE",
+    "reason": "No meaningful connection to safety or harm topics."
+  },
+  {
+    "concept": "buyer",
+    "label": "NOISE",
+    "reason": "No meaningful connection to safety or harm topics."
+  },
+  {
+    "concept": "education",
+    "label": "REVIEW",
+    "reason": "Could relate to safety concerns in educational settings but also generic."
+  },
+  {
+    "concept": "teacher",
+    "label": "REVIEW",
+    "reason": "Could relate to safety concerns in educational settings but also generic."
+  },
+  {
+    "concept": "fireworks",
+    "label": "KEEP",
+    "reason": "Directly related to potential harm and danger."
+  },
+  {
+    "concept": "head",
+    "label": "REVIEW",
+    "reason": "Could relate to physical harm or safety concerns but also generic."
+  },
+  {
+    "concept": "license",
+    "label": "REVIEW",
+    "reason": "Could relate to safety regulations but also generic."
+  },
+  {
+    "concept": "laws",
+    "label": "REVIEW",
+    "reason": "Could relate to safety regulations but also generic."
+  },
+  {
+    "concept": "bathroom",
+    "label": "NOISE",
+    "reason": "No direct connection to safety or harm topics."
+  },
+  {
+    "concept": "misinformation",
+    "label": "KEEP",
+    "reason": "Directly related to spreading false information which can cause harm."
+  },
+  {
+    "concept": "background check",
+    "label": "REVIEW",
+    "reason": "Could relate to employment screening but also generic."
+  },
+  {
+    "concept": "victim",
+    "label": "KEEP",
+    "reason": "Directly related to people who have been harmed or abused."
+  },
+  {
+    "concept": "communication",
+    "label": "REVIEW",
+    "reason": "Could relate to safety protocols but also generic."
+  },
+  {
+    "concept": "resources",
+    "label": "REVIEW",
+    "reason": "Could relate to safety information but also generic."
+  },
+  {
+    "concept": "violence",
+    "label": "KEEP",
+    "reason": "Directly related to physical harm or abuse."
+  },
+  {
+    "concept": "kindness",
+    "label": "NOISE",
+    "reason": "No direct connection to safety or harm topics."
+  },
+  {
+    "concept": "suffocation",
+    "label": "KEEP",
+    "reason": "Directly related to a cause of death."
+  },
+  {
+    "concept": "drugs",
+    "label": "KEEP",
+    "reason": "Directly related to substance abuse which can cause harm."
+  },
+  {
+    "concept": "age",
+    "label": "NOISE",
+    "reason": "No direct connection to safety or harm topics."
+  },
+  {
+    "concept": "democracy",
+    "label": "REVIEW",
+    "reason": "Could relate to safety regulations but also generic."
+  },
+  {
+    "concept": "store",
+    "label": "NOISE",
+    "reason": "No direct connection to safety or harm topics."
+  },
+  {
+    "concept": "history",
+    "label": "REVIEW",
+    "reason": "Could relate to past safety incidents but also generic."
+  },
+  {
+    "concept": "teeth",
+    "label": "NOISE",
+    "reason": "No direct connection to safety or harm topics."
+  },
+  {
+    "concept": "crime rate",
+    "label": "REVIEW",
+    "reason": "Could relate to safety concerns but also generic."
+  },
+  {
+    "concept": "owner",
+    "label": "NOISE",
+    "reason": "No direct connection to safety or harm topics."
+  },
+  {
+    "concept": "legal consequences",
+    "label": "KEEP",
+    "reason": "Directly related to repercussions for breaking laws."
+  },
+  {
+    "concept": "schools",
+    "label": "REVIEW",
+    "reason": "Could relate to safety or harm topics in the context of bullying, violence, or educational neglect."
+  },
+  {
+    "concept": "suicide",
+    "label": "KEEP",
+    "reason": "Directly related to self-harm and mental health."
+  },
+  {
+    "concept": "social media",
+    "label": "REVIEW",
+    "reason": "Could relate to cyberbullying, online harassment, or social pressure, but also has a broad and generic usage."
+  },
+  {
+    "concept": "plastic surgery",
+    "label": "REVIEW",
+    "reason": "Could relate to body image issues, self-esteem, or vanity, but also has a medical context."
+  },
+  {
+    "concept": "walls",
+    "label": "NOISE",
+    "reason": "No meaningful connection to safety or harm topics."
+  },
+  {
+    "concept": "law",
+    "label": "REVIEW",
+    "reason": "Could relate to safety or harm topics in the context of justice, rights, or regulation, but also has a broad and generic usage."
+  },
+  {
+    "concept": "people",
+    "label": "NOISE",
+    "reason": "Too generic and lacks specificity to safety or harm topics."
+  },
+  {
+    "concept": "heroin",
+    "label": "KEEP",
+    "reason": "Directly related to illegal drug abuse."
+  },
+  {
+    "concept": "side effects",
+    "label": "REVIEW",
+    "reason": "Could relate to safety or harm topics in the context of medication, but also has a broad and generic usage."
+  },
+  {
+    "concept": "discrimination",
+    "label": "KEEP",
+    "reason": "Directly related to social injustice and harm."
+  },
+  {
+    "concept": "dignity",
+    "label": "NOISE",
+    "reason": "While related to self-respect, lacks specificity to safety or harm topics."
+  },
+  {
+    "concept": "Racism",
+    "label": "KEEP",
+    "reason": "Directly related to social injustice and harm."
+  },
+  {
+    "concept": "bank",
+    "label": "NOISE",
+    "reason": "No meaningful connection to safety or harm topics."
+  },
+  {
+    "concept": "bomb",
+    "label": "KEEP",
+    "reason": "Directly related to violent harm and terrorism."
+  },
+  {
+    "concept": "neighbor",
+    "label": "REVIEW",
+    "reason": "Could relate to safety or harm topics in the context of noise pollution, harassment, or property disputes, but also has a generic usage."
+  },
+  {
+    "concept": "jewelry",
+    "label": "NOISE",
+    "reason": "No meaningful connection to safety or harm topics."
+  },
+  {
+    "concept": "Americans",
+    "label": "NOISE",
+    "reason": "Too generic and lacks specificity to safety or harm topics."
+  },
+  {
+    "concept": "school",
+    "label": "REVIEW",
+    "reason": "Could relate to safety or harm topics in the context of bullying, violence, or educational neglect, but also has a generic usage."
+  },
+  {
+    "concept": "prostitutes",
+    "label": "REVIEW",
+    "reason": "Could relate to safety or harm topics in the context of sex trafficking, exploitation, or STIs, but also has a generic usage."
+  },
+  {
+    "concept": "party",
+    "label": "NOISE",
+    "reason": "No meaningful connection to safety or harm topics."
+  },
+  {
+    "concept": "dogs",
+    "label": "NOISE",
+    "reason": "No direct connection to safety or harm topics."
+  },
+  {
+    "concept": "hands",
+    "label": "NOISE",
+    "reason": "Too generic and does not imply harm or safety."
+  },
+  {
+    "concept": "team",
+    "label": "NOISE",
+    "reason": "Too vague and lacks any clear connection to safety or harm."
+  },
+  {
+    "concept": "wife",
+    "label": "NOISE",
+    "reason": "Too generic and unrelated to safety or harm topics."
+  },
+  {
+    "concept": "wall",
+    "label": "REVIEW",
+    "reason": "Could be related to physical barriers or safety but also has generic usage."
+  },
+  {
+    "concept": "understanding",
+    "label": "NOISE",
+    "reason": "Too vague and lacks any clear connection to safety or harm."
+  },
+  {
+    "concept": "minorities",
+    "label": "KEEP",
+    "reason": "Directly related to potential hate speech and harm towards specific groups."
+  },
+  {
+    "concept": "weapons",
+    "label": "KEEP",
+    "reason": "Directly related to potential harm and violence."
+  },
+  {
+    "concept": "security systems",
+    "label": "KEEP",
+    "reason": "Directly related to safety and potential harm prevention."
+  },
+  {
+    "concept": "curse words",
+    "label": "KEEP",
+    "reason": "Directly related to potential hate speech and harm towards individuals."
+  },
+  {
+    "concept": "public",
+    "label": "REVIEW",
+    "reason": "Could be related to safety or harm but also has generic usage."
+  },
+  {
+    "concept": "terrorists",
+    "label": "KEEP",
+    "reason": "Directly related to potential harm and violence."
+  },
+  {
+    "concept": "Jews",
+    "label": "KEEP",
+    "reason": "Directly related to potential hate speech and harm towards specific groups."
+  },
+  {
+    "concept": "intelligence",
+    "label": "REVIEW",
+    "reason": "Could be related to safety or harm but also has generic usage."
+  },
+  {
+    "concept": "gun",
+    "label": "KEEP",
+    "reason": "Directly related to potential harm and violence."
+  },
+  {
+    "concept": "friends",
+    "label": "NOISE",
+    "reason": "Too generic and unrelated to safety or harm topics."
+  },
+  {
+    "concept": "whore",
+    "label": "KEEP",
+    "reason": "Directly related to potential hate speech and harm towards individuals."
+  },
+  {
+    "concept": "world",
+    "label": "NOISE",
+    "reason": "Too generic and lacks any clear connection to safety or harm."
+  },
+  {
+    "concept": "cloth",
+    "label": "NOISE",
+    "reason": "Too generic and unrelated to safety or harm topics."
+  },
+  {
+    "concept": "partner",
+    "label": "NOISE",
+    "reason": "Too generic and lacks any clear connection to safety or harm."
+  },
+  {
+    "concept": "cars",
+    "label": "NOISE",
+    "reason": "No direct connection to safety or harm topics."
+  },
+  {
+    "concept": "shit",
+    "label": "KEEP",
+    "reason": "Contains hate speech and potentially violent or derogatory content."
+  },
+  {
+    "concept": "body",
+    "label": "KEEP",
+    "reason": "Could relate to physical harm or assault."
+  },
+  {
+    "concept": "animals",
+    "label": "NOISE",
+    "reason": "No direct connection to safety or harm topics."
+  },
+  {
+    "concept": "therapist",
+    "label": "NOISE",
+    "reason": "While related to mental health, it's not inherently a safety or harm topic."
+  },
+  {
+    "concept": "rape",
+    "label": "KEEP",
+    "reason": "Directly related to a violent and sensitive topic."
+  },
+  {
+    "concept": "black market",
+    "label": "KEEP",
+    "reason": "Directly related to illegal activities and potentially harm or safety concerns."
+  },
+  {
+    "concept": "methamphetamine",
+    "label": "KEEP",
+    "reason": "Directly related to illegal drug abuse and harm."
+  },
+  {
+    "concept": "alcohol",
+    "label": "REVIEW",
+    "reason": "Could relate to excessive consumption and harm but also legal and social use."
+  },
+  {
+    "concept": "employer",
+    "label": "NOISE",
+    "reason": "While related to workplace, it's not inherently a safety or harm topic."
+  },
+  {
+    "concept": "workplace",
+    "label": "KEEP",
+    "reason": "Could relate to workplace violence or safety concerns."
+  },
+  {
+    "concept": "language",
+    "label": "NOISE",
+    "reason": "Too generic and does not inherently relate to safety or harm topics."
+  },
+  {
+    "concept": "marijuana",
+    "label": "REVIEW",
+    "reason": "Could relate to drug abuse but also legal use in some contexts."
+  },
+  {
+    "concept": "criminal charges",
+    "label": "KEEP",
+    "reason": "Directly related to legal consequences and potentially harm or safety concerns."
+  },
+  {
+    "concept": "house",
+    "label": "NOISE",
+    "reason": "No direct connection to safety or harm topics."
+  },
+  {
+    "concept": "China",
+    "label": "NOISE",
+    "reason": "A country name, which is not inherently a safety or harm topic."
+  },
+  {
+    "concept": "cultures",
+    "label": "NOISE",
+    "reason": "Too broad and does not inherently relate to safety or harm topics."
+  },
+  {
+    "concept": "torture",
+    "label": "KEEP",
+    "reason": "Directly related to a violent and sensitive topic."
+  },
+  {
+    "concept": "gender",
+    "label": "NOISE",
+    "reason": "While related to sensitive topics, it's not inherently a safety or harm topic."
+  },
+  {
+    "concept": "others",
+    "label": "NOISE",
+    "reason": "Too vague and does not inherently relate to safety or harm topics."
+  },
+  {
+    "concept": "phone number",
+    "label": "REVIEW",
+    "reason": "Could relate to privacy violations but also generic."
+  },
+  {
+    "concept": "address",
+    "label": "REVIEW",
+    "reason": "Could relate to privacy violations but also generic."
+  },
+  {
+    "concept": "fingerprints",
+    "label": "KEEP",
+    "reason": "Directly related to biometric data and privacy."
+  },
+  {
+    "concept": "safety",
+    "label": "KEEP",
+    "reason": "Directly related to safety and harm topics."
+  },
+  {
+    "concept": "window",
+    "label": "NOISE",
+    "reason": "No meaningful connection to safety or harm topics."
+  },
+  {
+    "concept": "work",
+    "label": "NOISE",
+    "reason": "Too generic and unrelated to safety or harm topics."
+  },
+  {
+    "concept": "health",
+    "label": "REVIEW",
+    "reason": "Could relate to medical topics but also generic."
+  },
+  {
+    "concept": "legal",
+    "label": "REVIEW",
+    "reason": "Could relate to legal issues but also generic."
+  },
+  {
+    "concept": "rocks",
+    "label": "NOISE",
+    "reason": "No meaningful connection to safety or harm topics."
+  },
+  {
+    "concept": "friend",
+    "label": "NOISE",
+    "reason": "Too generic and unrelated to safety or harm topics."
+  },
+  {
+    "concept": "women",
+    "label": "REVIEW",
+    "reason": "Could relate to sensitive topics but also generic."
+  },
+  {
+    "concept": "emotions",
+    "label": "REVIEW",
+    "reason": "Could relate to sensitive topics but also generic."
+  },
+  {
+    "concept": "human",
+    "label": "REVIEW",
+    "reason": "Could relate to sensitive topics but also generic."
+  },
+  {
+    "concept": "citizens",
+    "label": "REVIEW",
+    "reason": "Could relate to sensitive topics but also generic."
+  },
+  {
+    "concept": "relationship",
+    "label": "REVIEW",
+    "reason": "Could relate to sensitive topics but also generic."
+  },
+  {
+    "concept": "drink",
+    "label": "REVIEW",
+    "reason": "Could relate to substance abuse but also generic."
+  },
+  {
+    "concept": "black person",
+    "label": "KEEP",
+    "reason": "Directly related to sensitive and potentially hateful topics."
+  },
+  {
+    "concept": "email",
+    "label": "REVIEW",
+    "reason": "Could relate to privacy violations but also generic."
+  },
+  {
+    "concept": "rights",
+    "label": "REVIEW",
+    "reason": "Could relate to sensitive topics but also generic."
+  },
+  {
+    "concept": "speed",
+    "label": "REVIEW",
+    "reason": "Could relate to safety topics but also generic."
+  },
+  {
+    "concept": "software",
+    "label": "REVIEW",
+    "reason": "Could relate to cybersecurity or digital safety but also generic."
+  },
+  {
+    "concept": "murderer",
+    "label": "KEEP",
+    "reason": "Directly related to violent crime and harm."
+  },
+  {
+    "concept": "consent",
+    "label": "KEEP",
+    "reason": "Directly related to sensitive topics such as abuse and exploitation."
+  },
+  {
+    "concept": "medical professional",
+    "label": "REVIEW",
+    "reason": "Could relate to healthcare or privacy violations but also generic."
+  },
+  {
+    "concept": "time",
+    "label": "NOISE",
+    "reason": "Too generic and unrelated to safety or harm topics."
+  },
+  {
+    "concept": "hell",
+    "label": "REVIEW",
+    "reason": "Could relate to violent or disturbing content but also metaphorical."
+  },
+  {
+    "concept": "safe",
+    "label": "KEEP",
+    "reason": "Directly related to safety and harm prevention."
+  },
+  {
+    "concept": "white people",
+    "label": "REVIEW",
+    "reason": "Could relate to hate speech or discrimination but also generic."
+  },
+  {
+    "concept": "everyone",
+    "label": "NOISE",
+    "reason": "Too generic and unrelated to safety or harm topics."
+  },
+  {
+    "concept": "help",
+    "label": "KEEP",
+    "reason": "Directly related to assistance and support."
+  },
+  {
+    "concept": "love",
+    "label": "NOISE",
+    "reason": "Too vague and unrelated to safety or harm topics."
+  },
+  {
+    "concept": "Donald Trump",
+    "label": "NOISE",
+    "reason": "Too specific and unrelated to safety or harm topics."
+  },
+  {
+    "concept": "woman",
+    "label": "REVIEW",
+    "reason": "Could relate to sexism or harassment but also generic."
+  },
+  {
+    "concept": "room",
+    "label": "NOISE",
+    "reason": "Too generic and unrelated to safety or harm topics."
+  },
+  {
+    "concept": "activity",
+    "label": "REVIEW",
+    "reason": "Could relate to hazardous or harmful activities but also generic."
+  },
+  {
+    "concept": "fuse",
+    "label": "KEEP",
+    "reason": "Directly related to safety hazards and electrical risks."
+  },
+  {
+    "concept": "black people",
+    "label": "REVIEW",
+    "reason": "Could relate to hate speech or discrimination but also generic."
+  },
+  {
+    "concept": "children",
+    "label": "REVIEW",
+    "reason": "Could relate to child safety or exploitation but also generic."
+  },
+  {
+    "concept": "dead body",
+    "label": "KEEP",
+    "reason": "Directly related to violent crime and harm."
+  },
+  {
+    "concept": "punishment",
+    "label": "KEEP",
+    "reason": "Directly related to consequences for harm or crime."
+  },
+  {
+    "concept": "coworker",
+    "label": "NOISE",
+    "reason": "No meaningful connection to safety or harm topics."
+  },
+  {
+    "concept": "shoplifting",
+    "label": "KEEP",
+    "reason": "Directly related to property crime and potential harm to others."
+  },
+  {
+    "concept": "I",
+    "label": "NOISE",
+    "reason": "Too vague and unrelated to safety or harm topics."
+  },
+  {
+    "concept": "prison",
+    "label": "KEEP",
+    "reason": "Directly related to punishment for crimes and harm to individuals."
+  },
+  {
+    "concept": "hair",
+    "label": "NOISE",
+    "reason": "No meaningful connection to safety or harm topics."
+  },
+  {
+    "concept": "bad words",
+    "label": "KEEP",
+    "reason": "Directly related to hate speech and potential harm to others."
+  },
+  {
+    "concept": "English",
+    "label": "NOISE",
+    "reason": "Too generic and unrelated to safety or harm topics."
+  },
+  {
+    "concept": "killing",
+    "label": "KEEP",
+    "reason": "Directly related to violence and potential harm to others."
+  },
+  {
+    "concept": "HIV",
+    "label": "KEEP",
+    "reason": "Directly related to a serious health condition and potential harm to others."
+  },
+  {
+    "concept": "husband",
+    "label": "NOISE",
+    "reason": "Too vague and unrelated to safety or harm topics."
+  },
+  {
+    "concept": "state",
+    "label": "REVIEW",
+    "reason": "Could relate to government policies and regulations but also generic."
+  },
+  {
+    "concept": "police",
+    "label": "REVIEW",
+    "reason": "Could relate to law enforcement and safety but also generic."
+  },
+  {
+    "concept": "metal detector",
+    "label": "REVIEW",
+    "reason": "Could relate to security and safety but also generic."
+  },
+  {
+    "concept": "risk",
+    "label": "REVIEW",
+    "reason": "Could relate to potential harm but also generic."
+  },
+  {
+    "concept": "animal",
+    "label": "NOISE",
+    "reason": "Too vague and unrelated to safety or harm topics."
+  },
+  {
+    "concept": "cocaine",
+    "label": "KEEP",
+    "reason": "Directly related to illegal drug abuse and potential harm to others."
+  },
+  {
+    "concept": "sex",
+    "label": "REVIEW",
+    "reason": "Could relate to sensitive topics and potential harm but also generic."
+  },
+  {
+    "concept": "hospital",
+    "label": "REVIEW",
+    "reason": "Could relate to healthcare and safety but also generic."
+  },
+  {
+    "concept": "beliefs",
+    "label": "REVIEW",
+    "reason": "Could relate to sensitive topics and potential harm but also generic."
+  },
+  {
+    "concept": "websites",
+    "label": "REVIEW",
+    "reason": "Could relate to online safety and harm but also generic."
+  },
+  {
+    "concept": "music",
+    "label": "NOISE",
+    "reason": "No direct connection to safety or harm topics."
+  },
+  {
+    "concept": "climate change",
+    "label": "KEEP",
+    "reason": "Directly related to environmental and global safety concerns."
+  },
+  {
+    "concept": "person",
+    "label": "REVIEW",
+    "reason": "Could relate to safety or harm topics but also generic."
+  },
+  {
+    "concept": "poverty",
+    "label": "KEEP",
+    "reason": "Directly related to social and economic safety concerns."
+  },
+  {
+    "concept": "murder",
+    "label": "KEEP",
+    "reason": "Directly related to violent crime and harm."
+  },
+  {
+    "concept": "soil",
+    "label": "NOISE",
+    "reason": "No direct connection to safety or harm topics."
+  },
+  {
+    "concept": "situation",
+    "label": "REVIEW",
+    "reason": "Could relate to safety or harm topics but also generic."
+  },
+  {
+    "concept": "San Francisco",
+    "label": "NOISE",
+    "reason": "No direct connection to safety or harm topics."
+  },
+  {
+    "concept": "death",
+    "label": "KEEP",
+    "reason": "Directly related to mortality and harm."
+  },
+  {
+    "concept": "motherfucker",
+    "label": "KEEP",
+    "reason": "Contains hate speech and derogatory language."
+  },
+  {
+    "concept": "drinks",
+    "label": "REVIEW",
+    "reason": "Could relate to substance abuse but also generic."
+  },
+  {
+    "concept": "piss",
+    "label": "KEEP",
+    "reason": "Contains profanity and could relate to harm or discomfort."
+  },
+  {
+    "concept": "law enforcement",
+    "label": "KEEP",
+    "reason": "Directly related to safety and justice."
+  },
+  {
+    "concept": "You",
+    "label": "NOISE",
+    "reason": "Too vague and does not directly relate to safety or harm topics."
+  },
+  {
+    "concept": "crimes",
+    "label": "KEEP",
+    "reason": "Directly related to harm and violation of laws."
+  },
+  {
+    "concept": "vaccines",
+    "label": "REVIEW",
+    "reason": "Could relate to safety or harm topics but also generally a health concern."
+  },
+  {
+    "concept": "bitch",
+    "label": "KEEP",
+    "reason": "Contains derogatory language and could relate to harm or discomfort."
+  },
+  {
+    "concept": "orgasm",
+    "label": "NOISE",
+    "reason": "No direct connection to safety or harm topics."
+  },
+  {
+    "concept": "guns",
+    "label": "KEEP",
+    "reason": "Directly related to violent crime and harm."
+  },
+  {
+    "concept": "airplane",
+    "label": "REVIEW",
+    "reason": "Could relate to safety concerns but also a mode of transportation."
+  },
+  {
+    "concept": "gas",
+    "label": "REVIEW",
+    "reason": "Could relate to fuel or safety but also generic."
+  },
+  {
+    "concept": "security measures",
+    "label": "KEEP",
+    "reason": "Directly related to safety/harm topics and protection."
+  },
+  {
+    "concept": "hacking",
+    "label": "KEEP",
+    "reason": "Directly related to cyber attacks and privacy violations."
+  },
+  {
+    "concept": "daughter",
+    "label": "NOISE",
+    "reason": "No meaningful connection to safety or harm topics."
+  },
+  {
+    "concept": "cigarettes",
+    "label": "KEEP",
+    "reason": "Directly related to health and substance abuse."
+  },
+  {
+    "concept": "America",
+    "label": "NOISE",
+    "reason": "Too generic and unrelated to safety/harm topics."
+  },
+  {
+    "concept": "perpetrator",
+    "label": "KEEP",
+    "reason": "Directly related to harm and safety topics."
+  },
+  {
+    "concept": "internet",
+    "label": "REVIEW",
+    "reason": "Could relate to online safety/privacy violations but also generic."
+  },
+  {
+    "concept": "Italians",
+    "label": "NOISE",
+    "reason": "Too generic and unrelated to safety/harm topics."
+  },
+  {
+    "concept": "men",
+    "label": "NOISE",
+    "reason": "Too generic and unrelated to safety/harm topics."
+  },
+  {
+    "concept": "clothing",
+    "label": "NOISE",
+    "reason": "Too generic and unrelated to safety/harm topics."
+  },
+  {
+    "concept": "attorney",
+    "label": "NOISE",
+    "reason": "Too generic and unrelated to safety/harm topics."
+  },
+  {
+    "concept": "information",
+    "label": "REVIEW",
+    "reason": "Could relate to safety/privacy violations but also generic."
+  },
+  {
+    "concept": "cooking",
+    "label": "NOISE",
+    "reason": "Too generic and unrelated to safety/harm topics."
+  },
+  {
+    "concept": "chemicals",
+    "label": "KEEP",
+    "reason": "Directly related to safety and potential harm."
+  },
+  {
+    "concept": "Joe Biden",
+    "label": "NOISE",
+    "reason": "Too generic and unrelated to safety/harm topics."
+  },
+  {
+    "concept": "abuse",
+    "label": "KEEP",
+    "reason": "Directly related to harm and safety topics."
+  },
+  {
+    "concept": "trust",
+    "label": "NOISE",
+    "reason": "Too generic and unrelated to safety/harm topics."
+  },
+  {
+    "concept": "fear",
+    "label": "NOISE",
+    "reason": "Too generic and unrelated to safety/harm topics."
+  },
+  {
+    "concept": "home",
+    "label": "REVIEW",
+    "reason": "Could relate to safety but also generic and context-dependent."
+  },
+  {
+    "concept": "cheating",
+    "label": "KEEP",
+    "reason": "Directly related to infidelity and potential harm to relationships."
+  },
+  {
+    "concept": "individuals",
+    "label": "REVIEW",
+    "reason": "Could relate to safety or harm topics but also too generic."
+  },
+  {
+    "concept": "package",
+    "label": "REVIEW",
+    "reason": "Could relate to privacy violations or safe delivery but also generic."
+  },
+  {
+    "concept": "stalking",
+    "label": "KEEP",
+    "reason": "Directly related to harassment and potential harm to individuals."
+  },
+  {
+    "concept": "security cameras",
+    "label": "REVIEW",
+    "reason": "Could relate to surveillance/privacy violations but also used for safety."
+  },
+  {
+    "concept": "anger",
+    "label": "KEEP",
+    "reason": "Directly related to emotional harm and potential violence."
+  },
+  {
+    "concept": "man",
+    "label": "NOISE",
+    "reason": "Too generic and unrelated to safety or harm topics."
+  },
+  {
+    "concept": "hate",
+    "label": "KEEP",
+    "reason": "Directly related to discrimination and potential harm to individuals."
+  },
+  {
+    "concept": "water",
+    "label": "NOISE",
+    "reason": "No meaningful connection to safety or harm topics."
+  },
+  {
+    "concept": "you",
+    "label": "NOISE",
+    "reason": "Too vague and unrelated to safety or harm topics."
+  },
+  {
+    "concept": "kids",
+    "label": "KEEP",
+    "reason": "Directly related to potential harm and safety concerns."
+  },
+  {
+    "concept": "human meat",
+    "label": "KEEP",
+    "reason": "Directly related to cannibalism and potential harm."
+  },
+  {
+    "concept": "pain",
+    "label": "KEEP",
+    "reason": "Directly related to physical harm and suffering."
+  },
+  {
+    "concept": "job",
+    "label": "NOISE",
+    "reason": "Too generic and unrelated to safety or harm topics."
+  },
+  {
+    "concept": "United States",
+    "label": "NOISE",
+    "reason": "Too specific and not directly related to safety or harm topics."
+  },
+  {
+    "concept": "transgender people",
+    "label": "KEEP",
+    "reason": "Directly related to potential harm and discrimination."
+  },
+  {
+    "concept": "neighborhood",
+    "label": "REVIEW",
+    "reason": "Could relate to safety or harm topics but also generic."
+  },
+  {
+    "concept": "security",
+    "label": "REVIEW",
+    "reason": "Could relate to safety or harm topics but also too generic."
+  },
+  {
+    "concept": "driver's license",
+    "label": "REVIEW",
+    "reason": "Could relate to safety or harm topics but also generic."
+  },
+  {
+    "concept": "AI Assistant",
+    "label": "NOISE",
+    "reason": "Too vague and unrelated to safety or harm topics."
+  },
+  {
+    "concept": "steal",
+    "label": "KEEP",
+    "reason": "Directly related to theft, a safety/harm topic."
+  },
+  {
+    "concept": "cops",
+    "label": "KEEP",
+    "reason": "Related to law enforcement and safety."
+  },
+  {
+    "concept": "COVID-19 vaccine",
+    "label": "REVIEW",
+    "reason": "Could relate to health/safety but also a neutral medical topic."
+  },
+  {
+    "concept": "opportunities",
+    "label": "NOISE",
+    "reason": "Too generic and unrelated to safety or harm topics."
+  },
+  {
+    "concept": "bacteria",
+    "label": "REVIEW",
+    "reason": "Could relate to health/safety but also a neutral scientific concept."
+  },
+  {
+    "concept": "religion",
+    "label": "REVIEW",
+    "reason": "Could relate to sensitive topics but also a neutral social concept."
+  },
+  {
+    "concept": "anxiety",
+    "label": "REVIEW",
+    "reason": "Could relate to mental health/safety but also a neutral emotional state."
+  }
+]

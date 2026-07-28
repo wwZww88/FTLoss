@@ -1,58 +1,0 @@
-2026-07-26 13:08:32 ⏳ Loading test_dataset...
-2026-07-26 13:09:20 ✅ Dataset ready.
-2026-07-26 13:09:20 Total tasks found: 3. Using GPUs: ['2', '3']
-2026-07-26 13:09:20 🚀 Starting Eval for /home/sxw/FTLoss/qwen3b-beavertails-Random_n2000 on GPU 2
-Start evaluate /home/sxw/FTLoss/qwen3b-beavertails-Random_n2000/model_ckps/checkpoint-250
-2026-07-26 13:09:20 🚀 Starting Eval for /home/sxw/FTLoss/qwen3b-beavertails-SafeOnlyBalanced_perconcept20 on GPU 3
-Start evaluate /home/sxw/FTLoss/qwen3b-beavertails-SafeOnlyBalanced_perconcept20/model_ckps/checkpoint-328
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:00<00:00,  5.33it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:00<00:00,  5.55it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  7.30it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  6.91it/s]
-Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  7.21it/s]
-Model running on cuda:2.
-Model running on cuda:3.
-Start evaluate /home/sxw/FTLoss/qwen3b-beavertails-SafeOnlyBalanced_perconcept20/model_ckps/checkpoint-656
-Start evaluate /home/sxw/FTLoss/qwen3b-beavertails-Random_n2000/model_ckps/checkpoint-500
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:00<00:00,  5.30it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:00<00:00,  5.33it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  8.08it/s]
-Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  7.02it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  6.69it/s]
-Model running on cuda:2.
-Model running on cuda:3.
-Start evaluate /home/sxw/FTLoss/qwen3b-beavertails-Random_n2000/model_ckps/checkpoint-750
-Start evaluate /home/sxw/FTLoss/qwen3b-beavertails-SafeOnlyBalanced_perconcept20/model_ckps/checkpoint-984
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:00<00:00,  5.60it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  7.35it/s]
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:00<00:00,  5.59it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  7.36it/s]
-Model running on cuda:2.
-Model running on cuda:3.
-Start evaluate /home/sxw/FTLoss/qwen3b-beavertails-Random_n2000/model_ckps/checkpoint-1000
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:00<00:00,  5.32it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  7.12it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  6.77it/s]
-Start evaluate /home/sxw/FTLoss/qwen3b-beavertails-SafeOnlyBalanced_perconcept20/model_ckps/checkpoint-1312
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:00<00:00,  5.04it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  7.09it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  6.67it/s]
-Model running on cuda:2.
-Model running on cuda:3.
-Start evaluate /home/sxw/FTLoss/qwen3b-beavertails-Random_n2000/model_ckps/checkpoint-1250
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:00<00:00,  5.76it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  7.63it/s]
-Start evaluate /home/sxw/FTLoss/qwen3b-beavertails-SafeOnlyBalanced_perconcept20/model_ckps/checkpoint-1640
-Model running on cuda:2.
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:00<00:00,  5.28it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  7.11it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00,  6.75it/s]
-Model running on cuda:3.
-Data saved to: /home/sxw/FTLoss/qwen3b-beavertails-SafeOnlyBalanced_perconcept20/eval_ppl/ppl_result_list.json
-2026-07-26 13:57:10 ✅ Finished Eval for /home/sxw/FTLoss/qwen3b-beavertails-SafeOnlyBalanced_perconcept20 on GPU 3
-2026-07-26 13:57:10 🚀 Starting Eval for /home/sxw/FTLoss/qwen3b-beavertails-UnsafeOnlyBalanced_perconcept20 on GPU 2
-Start evaluate /home/sxw/FTLoss/qwen3b-beavertails-UnsafeOnlyBalanced_perconcept20/model_ckps/checkpoint-333
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00, 10.80it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00, 10.79it/s]
-Model running on cuda:2.
-Data saved to: /home/sxw/FTLoss/qwen3b-beavertails-Random_n2000/eval_ppl/ppl_result_list.json
-2026-07-26 13:57:16 ✅ Finished Eval for /home/sxw/FTLoss/qwen3b-beavertails-Random_n2000 on GPU 2
-Start evaluate /home/sxw/FTLoss/qwen3b-beavertails-UnsafeOnlyBalanced_perconcept20/model_ckps/checkpoint-666
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00, 14.31it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00, 14.28it/s]
-Model running on cuda:2.
-Start evaluate /home/sxw/FTLoss/qwen3b-beavertails-UnsafeOnlyBalanced_perconcept20/model_ckps/checkpoint-999
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00, 13.17it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00, 13.14it/s]
-Model running on cuda:2.
-Start evaluate /home/sxw/FTLoss/qwen3b-beavertails-UnsafeOnlyBalanced_perconcept20/model_ckps/checkpoint-1332
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00, 14.20it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00, 14.18it/s]
-Model running on cuda:2.
-Start evaluate /home/sxw/FTLoss/qwen3b-beavertails-UnsafeOnlyBalanced_perconcept20/model_ckps/checkpoint-1665
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 2/2 [00:00<00:00, 25.05it/s]
-Model running on cuda:2.
-Data saved to: /home/sxw/FTLoss/qwen3b-beavertails-UnsafeOnlyBalanced_perconcept20/eval_ppl/ppl_result_list.json
-2026-07-26 14:18:45 ✅ Finished Eval for /home/sxw/FTLoss/qwen3b-beavertails-UnsafeOnlyBalanced_perconcept20 on GPU 2
-2026-07-26 14:18:45 🎉 All parallel evaluations are completed!

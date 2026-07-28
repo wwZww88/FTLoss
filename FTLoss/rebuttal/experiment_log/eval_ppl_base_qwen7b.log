@@ -1,10 +1,0 @@
-2026-07-27 05:48:09 ⏳ Loading test_dataset...
-2026-07-27 05:48:55 ✅ Dataset ready.
-Found model at: /home/sxw/.cache/huggingface/hub/models--Qwen--Qwen2.5-7B-Instruct/snapshots/a09a35458c702b33eeacc393d103063234e8bc28
-✓ config.json found
-2026-07-27 05:48:55 🚀 Starting Eval for /home/sxw/FTLoss/qwen7b-beavertails-BaseModel on GPU 0
-Start evaluate /home/sxw/.cache/huggingface/hub/models--Qwen--Qwen2.5-7B-Instruct/snapshots/a09a35458c702b33eeacc393d103063234e8bc28
-Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00, 96.38it/s]
-Model running on cuda:0.
-Data saved to: /home/sxw/FTLoss/qwen7b-beavertails-BaseModel/eval_ppl/ppl_result_list.json
-2026-07-27 05:50:16 ✅ Finished Eval for /home/sxw/FTLoss/qwen7b-beavertails-BaseModel on GPU 0

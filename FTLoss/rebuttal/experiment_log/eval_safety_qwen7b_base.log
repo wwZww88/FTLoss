@@ -1,0 +1,12 @@
+2026-07-27 06:14:34 ⏳ Loading test_dataset...
+2026-07-27 06:15:21 ✅ Dataset ready.
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00, 106.91it/s]
+The module name  (originally ) is not a valid Python identifier. Please rename the original module to avoid import issues.
+2026-07-27 06:15:24 ✅ Llama_Guard loaded.
+2026-07-27 06:15:24 🚀 Starting Eval for /home/sxw/FTLoss/qwen7b-beavertails-BaseModel
+2026-07-27 06:15:24 Removing surrogate...
+2026-07-27 06:15:24 Finished removing surrogate...
+2026-07-27 06:17:20 ✅ Finished Safety Evaluation for /home/sxw/FTLoss/qwen7b-beavertails-BaseModel
+2026-07-27 06:17:20 ✅ Result saved to /home/sxw/FTLoss/qwen7b-beavertails-BaseModel/eval_safety
+2026-07-27 06:17:20 Clear GPU Cache
+2026-07-27 06:17:30 🎉 All evaluations are completed!

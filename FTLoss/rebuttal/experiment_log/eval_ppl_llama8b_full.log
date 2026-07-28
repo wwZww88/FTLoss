@@ -1,0 +1,58 @@
+2026-07-26 09:01:31 ⏳ Loading test_dataset...
+2026-07-26 09:02:17 ✅ Dataset ready.
+2026-07-26 09:02:17 Total tasks found: 3. Using GPUs: ['6', '7']
+2026-07-26 09:02:17 🚀 Starting Eval for /home/sxw/FTLoss/llama8b-full-beavertails-Random_n2000 on GPU 6
+Start evaluate /home/sxw/FTLoss/llama8b-full-beavertails-Random_n2000/model_ckps/checkpoint-250
+2026-07-26 09:02:17 🚀 Starting Eval for /home/sxw/FTLoss/llama8b-full-beavertails-SafeOnlyBalanced_perconcept20 on GPU 7
+Start evaluate /home/sxw/FTLoss/llama8b-full-beavertails-SafeOnlyBalanced_perconcept20/model_ckps/checkpoint-328
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00, 61.28it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00, 61.27it/s]
+
+Model running on cuda:6.
+Model running on cuda:7.
+Start evaluate /home/sxw/FTLoss/llama8b-full-beavertails-Random_n2000/model_ckps/checkpoint-500
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:00,  3.81it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:00<00:00,  3.31it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:00<00:00,  3.29it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00,  4.41it/s]
+Model running on cuda:6.
+Start evaluate /home/sxw/FTLoss/llama8b-full-beavertails-SafeOnlyBalanced_perconcept20/model_ckps/checkpoint-656
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:00,  3.72it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:00<00:00,  3.22it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:00<00:00,  3.18it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00,  4.25it/s]
+Model running on cuda:7.
+Start evaluate /home/sxw/FTLoss/llama8b-full-beavertails-Random_n2000/model_ckps/checkpoint-750
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:00,  3.82it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:00<00:00,  3.31it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:00<00:00,  3.25it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00,  4.37it/s]
+Model running on cuda:6.
+Start evaluate /home/sxw/FTLoss/llama8b-full-beavertails-SafeOnlyBalanced_perconcept20/model_ckps/checkpoint-984
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:00,  3.59it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:00<00:00,  3.15it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:00<00:00,  3.11it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00,  4.16it/s]
+Model running on cuda:7.
+Start evaluate /home/sxw/FTLoss/llama8b-full-beavertails-Random_n2000/model_ckps/checkpoint-1000
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:00,  3.69it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:00<00:00,  3.19it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:00<00:00,  3.16it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00,  4.23it/s]
+Model running on cuda:6.
+Start evaluate /home/sxw/FTLoss/llama8b-full-beavertails-SafeOnlyBalanced_perconcept20/model_ckps/checkpoint-1312
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:00,  3.95it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:00<00:00,  3.30it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:00<00:00,  3.22it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00,  4.35it/s]
+Model running on cuda:7.
+Start evaluate /home/sxw/FTLoss/llama8b-full-beavertails-Random_n2000/model_ckps/checkpoint-1250
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:00,  4.18it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:00<00:00,  3.93it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:00<00:00,  4.65it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00,  5.88it/s]
+Model running on cuda:6.
+Start evaluate /home/sxw/FTLoss/llama8b-full-beavertails-SafeOnlyBalanced_perconcept20/model_ckps/checkpoint-1640
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:00,  3.76it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:00<00:00,  3.21it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:00<00:00,  3.17it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00,  4.25it/s]
+Model running on cuda:7.
+Data saved to: /home/sxw/FTLoss/llama8b-full-beavertails-Random_n2000/eval_ppl/ppl_result_list.json
+2026-07-26 09:14:39 ✅ Finished Eval for /home/sxw/FTLoss/llama8b-full-beavertails-Random_n2000 on GPU 6
+2026-07-26 09:14:39 🚀 Starting Eval for /home/sxw/FTLoss/llama8b-full-beavertails-UnsafeOnlyBalanced_perconcept20 on GPU 6
+Start evaluate /home/sxw/FTLoss/llama8b-full-beavertails-UnsafeOnlyBalanced_perconcept20/model_ckps/checkpoint-333
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:00,  3.81it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:00<00:00,  3.28it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:00<00:00,  3.20it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00,  4.31it/s]
+Model running on cuda:6.
+Data saved to: /home/sxw/FTLoss/llama8b-full-beavertails-SafeOnlyBalanced_perconcept20/eval_ppl/ppl_result_list.json
+2026-07-26 09:16:40 ✅ Finished Eval for /home/sxw/FTLoss/llama8b-full-beavertails-SafeOnlyBalanced_perconcept20 on GPU 7
+Start evaluate /home/sxw/FTLoss/llama8b-full-beavertails-UnsafeOnlyBalanced_perconcept20/model_ckps/checkpoint-666
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:00,  4.25it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:00<00:00,  3.18it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:00<00:00,  2.94it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00,  4.04it/s]
+Model running on cuda:6.
+Start evaluate /home/sxw/FTLoss/llama8b-full-beavertails-UnsafeOnlyBalanced_perconcept20/model_ckps/checkpoint-999
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:00,  4.06it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:00<00:00,  3.10it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:00<00:00,  2.91it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:01<00:00,  3.98it/s]
+Model running on cuda:6.
+Start evaluate /home/sxw/FTLoss/llama8b-full-beavertails-UnsafeOnlyBalanced_perconcept20/model_ckps/checkpoint-1332
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:00,  4.11it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:00<00:00,  3.26it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:00<00:00,  3.20it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00,  4.33it/s]
+Model running on cuda:6.
+Start evaluate /home/sxw/FTLoss/llama8b-full-beavertails-UnsafeOnlyBalanced_perconcept20/model_ckps/checkpoint-1665
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:00,  4.26it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:00<00:00,  3.17it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:00<00:00,  3.00it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00,  4.11it/s]
+Model running on cuda:6.
+Data saved to: /home/sxw/FTLoss/llama8b-full-beavertails-UnsafeOnlyBalanced_perconcept20/eval_ppl/ppl_result_list.json
+2026-07-26 09:23:50 ✅ Finished Eval for /home/sxw/FTLoss/llama8b-full-beavertails-UnsafeOnlyBalanced_perconcept20 on GPU 6
+2026-07-26 09:23:50 🎉 All parallel evaluations are completed!

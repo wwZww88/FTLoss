@@ -1,0 +1,56 @@
+2026-07-26 13:06:27 ⏳ Loading test_dataset...
+2026-07-26 13:07:16 ✅ Dataset ready.
+2026-07-26 13:07:16 Start generate /home/sxw/FTLoss/qwen7b-beavertails-UnsafeOnlyBalanced_perconcept20/model_ckps/checkpoint-333
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00, 58.61it/s]
+Device set to use cuda:6
+2026-07-26 13:13:21 Start generate /home/sxw/FTLoss/qwen7b-beavertails-UnsafeOnlyBalanced_perconcept20/model_ckps/checkpoint-666
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00, 86.06it/s]
+Device set to use cuda:6
+2026-07-26 13:19:33 Start generate /home/sxw/FTLoss/qwen7b-beavertails-UnsafeOnlyBalanced_perconcept20/model_ckps/checkpoint-999
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00, 82.77it/s]
+Device set to use cuda:6
+2026-07-26 13:25:12 Start generate /home/sxw/FTLoss/qwen7b-beavertails-UnsafeOnlyBalanced_perconcept20/model_ckps/checkpoint-1332
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00, 91.38it/s]
+Device set to use cuda:6
+2026-07-26 13:30:50 Start generate /home/sxw/FTLoss/qwen7b-beavertails-UnsafeOnlyBalanced_perconcept20/model_ckps/checkpoint-1665
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00, 86.61it/s]
+Device set to use cuda:6
+2026-07-26 13:36:27 generation_result_dict_list saved to: /home/sxw/FTLoss/qwen7b-beavertails-UnsafeOnlyBalanced_perconcept20/gen/generation_result_dict.json
+2026-07-26 13:36:27 generation_result_flat_list saved to: /home/sxw/FTLoss/qwen7b-beavertails-UnsafeOnlyBalanced_perconcept20/gen/generation_result_flat.txt
+2026-07-26 13:36:27 ✅ Finished Generation for /home/sxw/FTLoss/qwen7b-beavertails-UnsafeOnlyBalanced_perconcept20 on GPU 6
+2026-07-26 13:36:27 Start generate /home/sxw/FTLoss/qwen7b-beavertails-Random_n2000/model_ckps/checkpoint-250
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00, 93.87it/s]
+Device set to use cuda:6
+2026-07-26 13:42:50 Start generate /home/sxw/FTLoss/qwen7b-beavertails-Random_n2000/model_ckps/checkpoint-500
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00, 93.26it/s]
+Device set to use cuda:6
+2026-07-26 13:48:36 Start generate /home/sxw/FTLoss/qwen7b-beavertails-Random_n2000/model_ckps/checkpoint-750
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00, 92.46it/s]
+Device set to use cuda:6
+2026-07-26 13:54:11 Start generate /home/sxw/FTLoss/qwen7b-beavertails-Random_n2000/model_ckps/checkpoint-1000
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00, 93.12it/s]
+Device set to use cuda:6
+2026-07-26 13:59:50 Start generate /home/sxw/FTLoss/qwen7b-beavertails-Random_n2000/model_ckps/checkpoint-1250
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00, 94.01it/s]
+Device set to use cuda:6
+2026-07-26 14:05:33 generation_result_dict_list saved to: /home/sxw/FTLoss/qwen7b-beavertails-Random_n2000/gen/generation_result_dict.json
+2026-07-26 14:05:33 generation_result_flat_list saved to: /home/sxw/FTLoss/qwen7b-beavertails-Random_n2000/gen/generation_result_flat.txt
+2026-07-26 14:05:33 ✅ Finished Generation for /home/sxw/FTLoss/qwen7b-beavertails-Random_n2000 on GPU 6
+2026-07-26 14:05:33 Start generate /home/sxw/FTLoss/qwen7b-beavertails-SafeOnlyBalanced_perconcept20/model_ckps/checkpoint-328
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00, 92.44it/s]
+Device set to use cuda:6
+2026-07-26 14:11:29 Start generate /home/sxw/FTLoss/qwen7b-beavertails-SafeOnlyBalanced_perconcept20/model_ckps/checkpoint-656
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00, 94.62it/s]
+Device set to use cuda:6
+2026-07-26 14:17:05 Start generate /home/sxw/FTLoss/qwen7b-beavertails-SafeOnlyBalanced_perconcept20/model_ckps/checkpoint-984
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00, 90.59it/s]
+Device set to use cuda:6
+2026-07-26 14:23:04 Start generate /home/sxw/FTLoss/qwen7b-beavertails-SafeOnlyBalanced_perconcept20/model_ckps/checkpoint-1312
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00, 91.38it/s]
+Device set to use cuda:6
+2026-07-26 14:29:14 Start generate /home/sxw/FTLoss/qwen7b-beavertails-SafeOnlyBalanced_perconcept20/model_ckps/checkpoint-1640
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:00<00:00, 91.94it/s]
+Device set to use cuda:6
+2026-07-26 14:35:34 generation_result_dict_list saved to: /home/sxw/FTLoss/qwen7b-beavertails-SafeOnlyBalanced_perconcept20/gen/generation_result_dict.json
+2026-07-26 14:35:34 generation_result_flat_list saved to: /home/sxw/FTLoss/qwen7b-beavertails-SafeOnlyBalanced_perconcept20/gen/generation_result_flat.txt
+2026-07-26 14:35:34 ✅ Finished Generation for /home/sxw/FTLoss/qwen7b-beavertails-SafeOnlyBalanced_perconcept20 on GPU 6

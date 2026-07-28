@@ -1,0 +1,8 @@
+2026-07-27 05:49:31 ⏳ Loading test_dataset...
+2026-07-27 05:50:19 ✅ Dataset ready.
+Found model at: /home/sxw/.cache/huggingface/hub/models--meta-llama--Llama-3.1-8B-Instruct/snapshots/0e9e39f249a16976918f6564b8830bc894c89659
+✓ config.json found
+2026-07-27 05:50:19 🚀 Starting Eval for /home/sxw/FTLoss/llama8b-full-beavertails-BaseModel on GPU 2
+Start evaluate /home/sxw/.cache/huggingface/hub/models--meta-llama--Llama-3.1-8B-Instruct/snapshots/0e9e39f249a16976918f6564b8830bc894c89659
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:00,  3.19it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:00<00:00,  2.50it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:01<00:00,  2.33it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:01<00:00,  3.19it/s]
+Model running on cuda:2.
